@@ -1,9 +1,0 @@
-venv/
-__pycache__/
-*.pyc
-.env
-.ENV
-db/
-**/chroma_db/
-*.db
-*_results.csv
