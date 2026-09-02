@@ -1,0 +1,221 @@
+course_id,title,description,category,level
+1,Deep Learning Fundamentals,"Learn neural networks, backpropagation, optimization, CNNs and deep learning concepts.",Deep Learning,Beginner
+2,Advanced Deep Learning,"Study advanced neural network architectures, representation learning and optimization techniques.",Deep Learning,Advanced
+3,PyTorch for Beginners,"Learn PyTorch tensors, datasets, neural networks, training loops and model evaluation.",PyTorch,Beginner
+4,PyTorch Deep Learning,"Build deep learning models using PyTorch including CNNs, RNNs and transfer learning.",PyTorch,Intermediate
+5,Computer Vision with PyTorch,Develop image classification and object detection systems using PyTorch.,Computer Vision,Intermediate
+6,Natural Language Processing,"Learn text processing, embeddings, classification, sentiment analysis and NLP models.",NLP,Intermediate
+7,Machine Learning Fundamentals,"Learn supervised learning, unsupervised learning, regression, classification and clustering.",Machine Learning,Beginner
+8,TensorFlow Fundamentals,Build and train neural networks using TensorFlow and Keras.,TensorFlow,Beginner
+9,Python Programming,"Learn Python programming, variables, functions, classes, modules and file handling.",Programming,Beginner
+10,Data Science with Python,"Learn Python, pandas, NumPy, visualization and machine learning for data science.",Data Science,Intermediate
+11,Artificial Intelligence,"Explore artificial intelligence, intelligent agents, search algorithms and machine learning.",Artificial Intelligence,Beginner
+12,Reinforcement Learning,"Learn agents, rewards, policies, value functions and reinforcement learning algorithms.",AI,Advanced
+13,Generative AI,"Learn generative artificial intelligence, language models, prompting and AI applications.",Generative AI,Intermediate
+14,Large Language Models,"Understand transformers, language models, embeddings and large language model applications.",Generative AI,Advanced
+15,Transformers and NLP,"Learn transformer architectures, attention mechanisms and modern NLP applications.",NLP,Advanced
+16,Data Analytics,"Learn data analysis, visualization, statistics and practical analytical techniques.",Data Analytics,Beginner
+17,SQL for Data Science,"Learn SQL queries, joins, aggregation, filtering and database analysis.",Database,Beginner
+18,Cloud Computing,"Learn cloud platforms, virtualization, storage, networking and cloud application development.",Cloud,Intermediate
+19,Computer Networks,"Understand networking protocols, TCP/IP, routing, switching and network security.",Networking,Intermediate
+20,Cyber Security Fundamentals,"Learn authentication, encryption, vulnerabilities, security principles and cyber defense.",Cyber Security,Beginner
+21,Statistics for Machine Learning,"Learn probability, statistics, distributions and statistical methods used in machine learning.",Statistics,Intermediate
+22,MLOps Fundamentals,"Learn machine learning deployment, model monitoring, pipelines and production workflows.",MLOps,Advanced
+23,AI Ethics,"Explore responsible AI, fairness, transparency, privacy and ethical machine learning.",AI Ethics,Beginner
+24,Time Series Forecasting,"Learn forecasting, trends, seasonality and predictive models for time series data.",Data Science,Intermediate
+25,Recommender Systems,"Build recommendation systems using collaborative filtering, content-based methods and embeddings.",Machine Learning,Advanced
+26,Deep Learning Fundamentals - Part 2,"Learn neural networks, backpropagation, optimization, CNNs and deep learning concepts.",Deep Learning,Beginner
+27,Advanced Deep Learning - Part 2,"Study advanced neural network architectures, representation learning and optimization techniques.",Deep Learning,Advanced
+28,PyTorch for Beginners - Part 2,"Learn PyTorch tensors, datasets, neural networks, training loops and model evaluation.",PyTorch,Beginner
+29,PyTorch Deep Learning - Part 2,"Build deep learning models using PyTorch including CNNs, RNNs and transfer learning.",PyTorch,Intermediate
+30,Computer Vision with PyTorch - Part 2,Develop image classification and object detection systems using PyTorch.,Computer Vision,Intermediate
+31,Natural Language Processing - Part 2,"Learn text processing, embeddings, classification, sentiment analysis and NLP models.",NLP,Intermediate
+32,Machine Learning Fundamentals - Part 2,"Learn supervised learning, unsupervised learning, regression, classification and clustering.",Machine Learning,Beginner
+33,TensorFlow Fundamentals - Part 2,Build and train neural networks using TensorFlow and Keras.,TensorFlow,Beginner
+34,Python Programming - Part 2,"Learn Python programming, variables, functions, classes, modules and file handling.",Programming,Beginner
+35,Data Science with Python - Part 2,"Learn Python, pandas, NumPy, visualization and machine learning for data science.",Data Science,Intermediate
+36,Artificial Intelligence - Part 2,"Explore artificial intelligence, intelligent agents, search algorithms and machine learning.",Artificial Intelligence,Beginner
+37,Reinforcement Learning - Part 2,"Learn agents, rewards, policies, value functions and reinforcement learning algorithms.",AI,Advanced
+38,Generative AI - Part 2,"Learn generative artificial intelligence, language models, prompting and AI applications.",Generative AI,Intermediate
+39,Large Language Models - Part 2,"Understand transformers, language models, embeddings and large language model applications.",Generative AI,Advanced
+40,Transformers and NLP - Part 2,"Learn transformer architectures, attention mechanisms and modern NLP applications.",NLP,Advanced
+41,Data Analytics - Part 2,"Learn data analysis, visualization, statistics and practical analytical techniques.",Data Analytics,Beginner
+42,SQL for Data Science - Part 2,"Learn SQL queries, joins, aggregation, filtering and database analysis.",Database,Beginner
+43,Cloud Computing - Part 2,"Learn cloud platforms, virtualization, storage, networking and cloud application development.",Cloud,Intermediate
+44,Computer Networks - Part 2,"Understand networking protocols, TCP/IP, routing, switching and network security.",Networking,Intermediate
+45,Cyber Security Fundamentals - Part 2,"Learn authentication, encryption, vulnerabilities, security principles and cyber defense.",Cyber Security,Beginner
+46,Statistics for Machine Learning - Part 2,"Learn probability, statistics, distributions and statistical methods used in machine learning.",Statistics,Intermediate
+47,MLOps Fundamentals - Part 2,"Learn machine learning deployment, model monitoring, pipelines and production workflows.",MLOps,Advanced
+48,AI Ethics - Part 2,"Explore responsible AI, fairness, transparency, privacy and ethical machine learning.",AI Ethics,Beginner
+49,Time Series Forecasting - Part 2,"Learn forecasting, trends, seasonality and predictive models for time series data.",Data Science,Intermediate
+50,Recommender Systems - Part 2,"Build recommendation systems using collaborative filtering, content-based methods and embeddings.",Machine Learning,Advanced
+51,Deep Learning Fundamentals - Part 3,"Learn neural networks, backpropagation, optimization, CNNs and deep learning concepts.",Deep Learning,Beginner
+52,Advanced Deep Learning - Part 3,"Study advanced neural network architectures, representation learning and optimization techniques.",Deep Learning,Advanced
+53,PyTorch for Beginners - Part 3,"Learn PyTorch tensors, datasets, neural networks, training loops and model evaluation.",PyTorch,Beginner
+54,PyTorch Deep Learning - Part 3,"Build deep learning models using PyTorch including CNNs, RNNs and transfer learning.",PyTorch,Intermediate
+55,Computer Vision with PyTorch - Part 3,Develop image classification and object detection systems using PyTorch.,Computer Vision,Intermediate
+56,Natural Language Processing - Part 3,"Learn text processing, embeddings, classification, sentiment analysis and NLP models.",NLP,Intermediate
+57,Machine Learning Fundamentals - Part 3,"Learn supervised learning, unsupervised learning, regression, classification and clustering.",Machine Learning,Beginner
+58,TensorFlow Fundamentals - Part 3,Build and train neural networks using TensorFlow and Keras.,TensorFlow,Beginner
+59,Python Programming - Part 3,"Learn Python programming, variables, functions, classes, modules and file handling.",Programming,Beginner
+60,Data Science with Python - Part 3,"Learn Python, pandas, NumPy, visualization and machine learning for data science.",Data Science,Intermediate
+61,Artificial Intelligence - Part 3,"Explore artificial intelligence, intelligent agents, search algorithms and machine learning.",Artificial Intelligence,Beginner
+62,Reinforcement Learning - Part 3,"Learn agents, rewards, policies, value functions and reinforcement learning algorithms.",AI,Advanced
+63,Generative AI - Part 3,"Learn generative artificial intelligence, language models, prompting and AI applications.",Generative AI,Intermediate
+64,Large Language Models - Part 3,"Understand transformers, language models, embeddings and large language model applications.",Generative AI,Advanced
+65,Transformers and NLP - Part 3,"Learn transformer architectures, attention mechanisms and modern NLP applications.",NLP,Advanced
+66,Data Analytics - Part 3,"Learn data analysis, visualization, statistics and practical analytical techniques.",Data Analytics,Beginner
+67,SQL for Data Science - Part 3,"Learn SQL queries, joins, aggregation, filtering and database analysis.",Database,Beginner
+68,Cloud Computing - Part 3,"Learn cloud platforms, virtualization, storage, networking and cloud application development.",Cloud,Intermediate
+69,Computer Networks - Part 3,"Understand networking protocols, TCP/IP, routing, switching and network security.",Networking,Intermediate
+70,Cyber Security Fundamentals - Part 3,"Learn authentication, encryption, vulnerabilities, security principles and cyber defense.",Cyber Security,Beginner
+71,Statistics for Machine Learning - Part 3,"Learn probability, statistics, distributions and statistical methods used in machine learning.",Statistics,Intermediate
+72,MLOps Fundamentals - Part 3,"Learn machine learning deployment, model monitoring, pipelines and production workflows.",MLOps,Advanced
+73,AI Ethics - Part 3,"Explore responsible AI, fairness, transparency, privacy and ethical machine learning.",AI Ethics,Beginner
+74,Time Series Forecasting - Part 3,"Learn forecasting, trends, seasonality and predictive models for time series data.",Data Science,Intermediate
+75,Recommender Systems - Part 3,"Build recommendation systems using collaborative filtering, content-based methods and embeddings.",Machine Learning,Advanced
+76,Deep Learning Fundamentals - Part 4,"Learn neural networks, backpropagation, optimization, CNNs and deep learning concepts.",Deep Learning,Beginner
+77,Advanced Deep Learning - Part 4,"Study advanced neural network architectures, representation learning and optimization techniques.",Deep Learning,Advanced
+78,PyTorch for Beginners - Part 4,"Learn PyTorch tensors, datasets, neural networks, training loops and model evaluation.",PyTorch,Beginner
+79,PyTorch Deep Learning - Part 4,"Build deep learning models using PyTorch including CNNs, RNNs and transfer learning.",PyTorch,Intermediate
+80,Computer Vision with PyTorch - Part 4,Develop image classification and object detection systems using PyTorch.,Computer Vision,Intermediate
+81,Natural Language Processing - Part 4,"Learn text processing, embeddings, classification, sentiment analysis and NLP models.",NLP,Intermediate
+82,Machine Learning Fundamentals - Part 4,"Learn supervised learning, unsupervised learning, regression, classification and clustering.",Machine Learning,Beginner
+83,TensorFlow Fundamentals - Part 4,Build and train neural networks using TensorFlow and Keras.,TensorFlow,Beginner
+84,Python Programming - Part 4,"Learn Python programming, variables, functions, classes, modules and file handling.",Programming,Beginner
+85,Data Science with Python - Part 4,"Learn Python, pandas, NumPy, visualization and machine learning for data science.",Data Science,Intermediate
+86,Artificial Intelligence - Part 4,"Explore artificial intelligence, intelligent agents, search algorithms and machine learning.",Artificial Intelligence,Beginner
+87,Reinforcement Learning - Part 4,"Learn agents, rewards, policies, value functions and reinforcement learning algorithms.",AI,Advanced
+88,Generative AI - Part 4,"Learn generative artificial intelligence, language models, prompting and AI applications.",Generative AI,Intermediate
+89,Large Language Models - Part 4,"Understand transformers, language models, embeddings and large language model applications.",Generative AI,Advanced
+90,Transformers and NLP - Part 4,"Learn transformer architectures, attention mechanisms and modern NLP applications.",NLP,Advanced
+91,Data Analytics - Part 4,"Learn data analysis, visualization, statistics and practical analytical techniques.",Data Analytics,Beginner
+92,SQL for Data Science - Part 4,"Learn SQL queries, joins, aggregation, filtering and database analysis.",Database,Beginner
+93,Cloud Computing - Part 4,"Learn cloud platforms, virtualization, storage, networking and cloud application development.",Cloud,Intermediate
+94,Computer Networks - Part 4,"Understand networking protocols, TCP/IP, routing, switching and network security.",Networking,Intermediate
+95,Cyber Security Fundamentals - Part 4,"Learn authentication, encryption, vulnerabilities, security principles and cyber defense.",Cyber Security,Beginner
+96,Statistics for Machine Learning - Part 4,"Learn probability, statistics, distributions and statistical methods used in machine learning.",Statistics,Intermediate
+97,MLOps Fundamentals - Part 4,"Learn machine learning deployment, model monitoring, pipelines and production workflows.",MLOps,Advanced
+98,AI Ethics - Part 4,"Explore responsible AI, fairness, transparency, privacy and ethical machine learning.",AI Ethics,Beginner
+99,Time Series Forecasting - Part 4,"Learn forecasting, trends, seasonality and predictive models for time series data.",Data Science,Intermediate
+100,Recommender Systems - Part 4,"Build recommendation systems using collaborative filtering, content-based methods and embeddings.",Machine Learning,Advanced
+101,Deep Learning Fundamentals - Part 5,"Learn neural networks, backpropagation, optimization, CNNs and deep learning concepts.",Deep Learning,Beginner
+102,Advanced Deep Learning - Part 5,"Study advanced neural network architectures, representation learning and optimization techniques.",Deep Learning,Advanced
+103,PyTorch for Beginners - Part 5,"Learn PyTorch tensors, datasets, neural networks, training loops and model evaluation.",PyTorch,Beginner
+104,PyTorch Deep Learning - Part 5,"Build deep learning models using PyTorch including CNNs, RNNs and transfer learning.",PyTorch,Intermediate
+105,Computer Vision with PyTorch - Part 5,Develop image classification and object detection systems using PyTorch.,Computer Vision,Intermediate
+106,Natural Language Processing - Part 5,"Learn text processing, embeddings, classification, sentiment analysis and NLP models.",NLP,Intermediate
+107,Machine Learning Fundamentals - Part 5,"Learn supervised learning, unsupervised learning, regression, classification and clustering.",Machine Learning,Beginner
+108,TensorFlow Fundamentals - Part 5,Build and train neural networks using TensorFlow and Keras.,TensorFlow,Beginner
+109,Python Programming - Part 5,"Learn Python programming, variables, functions, classes, modules and file handling.",Programming,Beginner
+110,Data Science with Python - Part 5,"Learn Python, pandas, NumPy, visualization and machine learning for data science.",Data Science,Intermediate
+111,Artificial Intelligence - Part 5,"Explore artificial intelligence, intelligent agents, search algorithms and machine learning.",Artificial Intelligence,Beginner
+112,Reinforcement Learning - Part 5,"Learn agents, rewards, policies, value functions and reinforcement learning algorithms.",AI,Advanced
+113,Generative AI - Part 5,"Learn generative artificial intelligence, language models, prompting and AI applications.",Generative AI,Intermediate
+114,Large Language Models - Part 5,"Understand transformers, language models, embeddings and large language model applications.",Generative AI,Advanced
+115,Transformers and NLP - Part 5,"Learn transformer architectures, attention mechanisms and modern NLP applications.",NLP,Advanced
+116,Data Analytics - Part 5,"Learn data analysis, visualization, statistics and practical analytical techniques.",Data Analytics,Beginner
+117,SQL for Data Science - Part 5,"Learn SQL queries, joins, aggregation, filtering and database analysis.",Database,Beginner
+118,Cloud Computing - Part 5,"Learn cloud platforms, virtualization, storage, networking and cloud application development.",Cloud,Intermediate
+119,Computer Networks - Part 5,"Understand networking protocols, TCP/IP, routing, switching and network security.",Networking,Intermediate
+120,Cyber Security Fundamentals - Part 5,"Learn authentication, encryption, vulnerabilities, security principles and cyber defense.",Cyber Security,Beginner
+121,Statistics for Machine Learning - Part 5,"Learn probability, statistics, distributions and statistical methods used in machine learning.",Statistics,Intermediate
+122,MLOps Fundamentals - Part 5,"Learn machine learning deployment, model monitoring, pipelines and production workflows.",MLOps,Advanced
+123,AI Ethics - Part 5,"Explore responsible AI, fairness, transparency, privacy and ethical machine learning.",AI Ethics,Beginner
+124,Time Series Forecasting - Part 5,"Learn forecasting, trends, seasonality and predictive models for time series data.",Data Science,Intermediate
+125,Recommender Systems - Part 5,"Build recommendation systems using collaborative filtering, content-based methods and embeddings.",Machine Learning,Advanced
+126,Deep Learning Fundamentals - Part 6,"Learn neural networks, backpropagation, optimization, CNNs and deep learning concepts.",Deep Learning,Beginner
+127,Advanced Deep Learning - Part 6,"Study advanced neural network architectures, representation learning and optimization techniques.",Deep Learning,Advanced
+128,PyTorch for Beginners - Part 6,"Learn PyTorch tensors, datasets, neural networks, training loops and model evaluation.",PyTorch,Beginner
+129,PyTorch Deep Learning - Part 6,"Build deep learning models using PyTorch including CNNs, RNNs and transfer learning.",PyTorch,Intermediate
+130,Computer Vision with PyTorch - Part 6,Develop image classification and object detection systems using PyTorch.,Computer Vision,Intermediate
+131,Natural Language Processing - Part 6,"Learn text processing, embeddings, classification, sentiment analysis and NLP models.",NLP,Intermediate
+132,Machine Learning Fundamentals - Part 6,"Learn supervised learning, unsupervised learning, regression, classification and clustering.",Machine Learning,Beginner
+133,TensorFlow Fundamentals - Part 6,Build and train neural networks using TensorFlow and Keras.,TensorFlow,Beginner
+134,Python Programming - Part 6,"Learn Python programming, variables, functions, classes, modules and file handling.",Programming,Beginner
+135,Data Science with Python - Part 6,"Learn Python, pandas, NumPy, visualization and machine learning for data science.",Data Science,Intermediate
+136,Artificial Intelligence - Part 6,"Explore artificial intelligence, intelligent agents, search algorithms and machine learning.",Artificial Intelligence,Beginner
+137,Reinforcement Learning - Part 6,"Learn agents, rewards, policies, value functions and reinforcement learning algorithms.",AI,Advanced
+138,Generative AI - Part 6,"Learn generative artificial intelligence, language models, prompting and AI applications.",Generative AI,Intermediate
+139,Large Language Models - Part 6,"Understand transformers, language models, embeddings and large language model applications.",Generative AI,Advanced
+140,Transformers and NLP - Part 6,"Learn transformer architectures, attention mechanisms and modern NLP applications.",NLP,Advanced
+141,Data Analytics - Part 6,"Learn data analysis, visualization, statistics and practical analytical techniques.",Data Analytics,Beginner
+142,SQL for Data Science - Part 6,"Learn SQL queries, joins, aggregation, filtering and database analysis.",Database,Beginner
+143,Cloud Computing - Part 6,"Learn cloud platforms, virtualization, storage, networking and cloud application development.",Cloud,Intermediate
+144,Computer Networks - Part 6,"Understand networking protocols, TCP/IP, routing, switching and network security.",Networking,Intermediate
+145,Cyber Security Fundamentals - Part 6,"Learn authentication, encryption, vulnerabilities, security principles and cyber defense.",Cyber Security,Beginner
+146,Statistics for Machine Learning - Part 6,"Learn probability, statistics, distributions and statistical methods used in machine learning.",Statistics,Intermediate
+147,MLOps Fundamentals - Part 6,"Learn machine learning deployment, model monitoring, pipelines and production workflows.",MLOps,Advanced
+148,AI Ethics - Part 6,"Explore responsible AI, fairness, transparency, privacy and ethical machine learning.",AI Ethics,Beginner
+149,Time Series Forecasting - Part 6,"Learn forecasting, trends, seasonality and predictive models for time series data.",Data Science,Intermediate
+150,Recommender Systems - Part 6,"Build recommendation systems using collaborative filtering, content-based methods and embeddings.",Machine Learning,Advanced
+151,Deep Learning Fundamentals - Part 7,"Learn neural networks, backpropagation, optimization, CNNs and deep learning concepts.",Deep Learning,Beginner
+152,Advanced Deep Learning - Part 7,"Study advanced neural network architectures, representation learning and optimization techniques.",Deep Learning,Advanced
+153,PyTorch for Beginners - Part 7,"Learn PyTorch tensors, datasets, neural networks, training loops and model evaluation.",PyTorch,Beginner
+154,PyTorch Deep Learning - Part 7,"Build deep learning models using PyTorch including CNNs, RNNs and transfer learning.",PyTorch,Intermediate
+155,Computer Vision with PyTorch - Part 7,Develop image classification and object detection systems using PyTorch.,Computer Vision,Intermediate
+156,Natural Language Processing - Part 7,"Learn text processing, embeddings, classification, sentiment analysis and NLP models.",NLP,Intermediate
+157,Machine Learning Fundamentals - Part 7,"Learn supervised learning, unsupervised learning, regression, classification and clustering.",Machine Learning,Beginner
+158,TensorFlow Fundamentals - Part 7,Build and train neural networks using TensorFlow and Keras.,TensorFlow,Beginner
+159,Python Programming - Part 7,"Learn Python programming, variables, functions, classes, modules and file handling.",Programming,Beginner
+160,Data Science with Python - Part 7,"Learn Python, pandas, NumPy, visualization and machine learning for data science.",Data Science,Intermediate
+161,Artificial Intelligence - Part 7,"Explore artificial intelligence, intelligent agents, search algorithms and machine learning.",Artificial Intelligence,Beginner
+162,Reinforcement Learning - Part 7,"Learn agents, rewards, policies, value functions and reinforcement learning algorithms.",AI,Advanced
+163,Generative AI - Part 7,"Learn generative artificial intelligence, language models, prompting and AI applications.",Generative AI,Intermediate
+164,Large Language Models - Part 7,"Understand transformers, language models, embeddings and large language model applications.",Generative AI,Advanced
+165,Transformers and NLP - Part 7,"Learn transformer architectures, attention mechanisms and modern NLP applications.",NLP,Advanced
+166,Data Analytics - Part 7,"Learn data analysis, visualization, statistics and practical analytical techniques.",Data Analytics,Beginner
+167,SQL for Data Science - Part 7,"Learn SQL queries, joins, aggregation, filtering and database analysis.",Database,Beginner
+168,Cloud Computing - Part 7,"Learn cloud platforms, virtualization, storage, networking and cloud application development.",Cloud,Intermediate
+169,Computer Networks - Part 7,"Understand networking protocols, TCP/IP, routing, switching and network security.",Networking,Intermediate
+170,Cyber Security Fundamentals - Part 7,"Learn authentication, encryption, vulnerabilities, security principles and cyber defense.",Cyber Security,Beginner
+171,Statistics for Machine Learning - Part 7,"Learn probability, statistics, distributions and statistical methods used in machine learning.",Statistics,Intermediate
+172,MLOps Fundamentals - Part 7,"Learn machine learning deployment, model monitoring, pipelines and production workflows.",MLOps,Advanced
+173,AI Ethics - Part 7,"Explore responsible AI, fairness, transparency, privacy and ethical machine learning.",AI Ethics,Beginner
+174,Time Series Forecasting - Part 7,"Learn forecasting, trends, seasonality and predictive models for time series data.",Data Science,Intermediate
+175,Recommender Systems - Part 7,"Build recommendation systems using collaborative filtering, content-based methods and embeddings.",Machine Learning,Advanced
+176,Deep Learning Fundamentals - Part 8,"Learn neural networks, backpropagation, optimization, CNNs and deep learning concepts.",Deep Learning,Beginner
+177,Advanced Deep Learning - Part 8,"Study advanced neural network architectures, representation learning and optimization techniques.",Deep Learning,Advanced
+178,PyTorch for Beginners - Part 8,"Learn PyTorch tensors, datasets, neural networks, training loops and model evaluation.",PyTorch,Beginner
+179,PyTorch Deep Learning - Part 8,"Build deep learning models using PyTorch including CNNs, RNNs and transfer learning.",PyTorch,Intermediate
+180,Computer Vision with PyTorch - Part 8,Develop image classification and object detection systems using PyTorch.,Computer Vision,Intermediate
+181,Natural Language Processing - Part 8,"Learn text processing, embeddings, classification, sentiment analysis and NLP models.",NLP,Intermediate
+182,Machine Learning Fundamentals - Part 8,"Learn supervised learning, unsupervised learning, regression, classification and clustering.",Machine Learning,Beginner
+183,TensorFlow Fundamentals - Part 8,Build and train neural networks using TensorFlow and Keras.,TensorFlow,Beginner
+184,Python Programming - Part 8,"Learn Python programming, variables, functions, classes, modules and file handling.",Programming,Beginner
+185,Data Science with Python - Part 8,"Learn Python, pandas, NumPy, visualization and machine learning for data science.",Data Science,Intermediate
+186,Artificial Intelligence - Part 8,"Explore artificial intelligence, intelligent agents, search algorithms and machine learning.",Artificial Intelligence,Beginner
+187,Reinforcement Learning - Part 8,"Learn agents, rewards, policies, value functions and reinforcement learning algorithms.",AI,Advanced
+188,Generative AI - Part 8,"Learn generative artificial intelligence, language models, prompting and AI applications.",Generative AI,Intermediate
+189,Large Language Models - Part 8,"Understand transformers, language models, embeddings and large language model applications.",Generative AI,Advanced
+190,Transformers and NLP - Part 8,"Learn transformer architectures, attention mechanisms and modern NLP applications.",NLP,Advanced
+191,Data Analytics - Part 8,"Learn data analysis, visualization, statistics and practical analytical techniques.",Data Analytics,Beginner
+192,SQL for Data Science - Part 8,"Learn SQL queries, joins, aggregation, filtering and database analysis.",Database,Beginner
+193,Cloud Computing - Part 8,"Learn cloud platforms, virtualization, storage, networking and cloud application development.",Cloud,Intermediate
+194,Computer Networks - Part 8,"Understand networking protocols, TCP/IP, routing, switching and network security.",Networking,Intermediate
+195,Cyber Security Fundamentals - Part 8,"Learn authentication, encryption, vulnerabilities, security principles and cyber defense.",Cyber Security,Beginner
+196,Statistics for Machine Learning - Part 8,"Learn probability, statistics, distributions and statistical methods used in machine learning.",Statistics,Intermediate
+197,MLOps Fundamentals - Part 8,"Learn machine learning deployment, model monitoring, pipelines and production workflows.",MLOps,Advanced
+198,AI Ethics - Part 8,"Explore responsible AI, fairness, transparency, privacy and ethical machine learning.",AI Ethics,Beginner
+199,Time Series Forecasting - Part 8,"Learn forecasting, trends, seasonality and predictive models for time series data.",Data Science,Intermediate
+200,Recommender Systems - Part 8,"Build recommendation systems using collaborative filtering, content-based methods and embeddings.",Machine Learning,Advanced
+201,Deep Learning Fundamentals - Part 9,"Learn neural networks, backpropagation, optimization, CNNs and deep learning concepts.",Deep Learning,Beginner
+202,Advanced Deep Learning - Part 9,"Study advanced neural network architectures, representation learning and optimization techniques.",Deep Learning,Advanced
+203,PyTorch for Beginners - Part 9,"Learn PyTorch tensors, datasets, neural networks, training loops and model evaluation.",PyTorch,Beginner
+204,PyTorch Deep Learning - Part 9,"Build deep learning models using PyTorch including CNNs, RNNs and transfer learning.",PyTorch,Intermediate
+205,Computer Vision with PyTorch - Part 9,Develop image classification and object detection systems using PyTorch.,Computer Vision,Intermediate
+206,Natural Language Processing - Part 9,"Learn text processing, embeddings, classification, sentiment analysis and NLP models.",NLP,Intermediate
+207,Machine Learning Fundamentals - Part 9,"Learn supervised learning, unsupervised learning, regression, classification and clustering.",Machine Learning,Beginner
+208,TensorFlow Fundamentals - Part 9,Build and train neural networks using TensorFlow and Keras.,TensorFlow,Beginner
+209,Python Programming - Part 9,"Learn Python programming, variables, functions, classes, modules and file handling.",Programming,Beginner
+210,Data Science with Python - Part 9,"Learn Python, pandas, NumPy, visualization and machine learning for data science.",Data Science,Intermediate
+211,Artificial Intelligence - Part 9,"Explore artificial intelligence, intelligent agents, search algorithms and machine learning.",Artificial Intelligence,Beginner
+212,Reinforcement Learning - Part 9,"Learn agents, rewards, policies, value functions and reinforcement learning algorithms.",AI,Advanced
+213,Generative AI - Part 9,"Learn generative artificial intelligence, language models, prompting and AI applications.",Generative AI,Intermediate
+214,Large Language Models - Part 9,"Understand transformers, language models, embeddings and large language model applications.",Generative AI,Advanced
+215,Transformers and NLP - Part 9,"Learn transformer architectures, attention mechanisms and modern NLP applications.",NLP,Advanced
+216,Data Analytics - Part 9,"Learn data analysis, visualization, statistics and practical analytical techniques.",Data Analytics,Beginner
+217,SQL for Data Science - Part 9,"Learn SQL queries, joins, aggregation, filtering and database analysis.",Database,Beginner
+218,Cloud Computing - Part 9,"Learn cloud platforms, virtualization, storage, networking and cloud application development.",Cloud,Intermediate
+219,Computer Networks - Part 9,"Understand networking protocols, TCP/IP, routing, switching and network security.",Networking,Intermediate
+220,Cyber Security Fundamentals - Part 9,"Learn authentication, encryption, vulnerabilities, security principles and cyber defense.",Cyber Security,Beginner
